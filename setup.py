@@ -20,7 +20,7 @@ AUTHOR = 'ANZ'
 
 REQUIRED = [
     'httplib2',
-    'urllib3==1.24.2',
+    'urllib3==1.26.5',
     'openpyxl',
     'plantuml',
     'protobuf',
